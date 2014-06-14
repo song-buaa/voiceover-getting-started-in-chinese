@@ -5,6 +5,8 @@ voiceover-getting-started-in-chinese
 
 重复一遍，请关注网站的无障碍设计
 
+原文地址：http://help.apple.com/voiceover/info/guide/10.9/English.lproj/index.html
+
 # 翻译进度
 
 认领中
