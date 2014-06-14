@@ -9,7 +9,7 @@ voiceover-getting-started-in-chinese
 
 # 翻译进度
 
-认领中
+认领中，请到https://github.com/numbbbbb/voiceover-getting-started-in-chinese/issues/1 回复认领
 
 
 # 贡献力量
